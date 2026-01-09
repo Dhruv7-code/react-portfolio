@@ -4,7 +4,7 @@ export const projects = [
   {
     id: 1,
     title: "Sound — Minimal Music Streaming Platform",
-    image: "./public/images/projects/music.png",
+    image: "./images/projects/music.png",
     category: "Full Stack Web Application",
     technologies: [
       "HTML5",
@@ -22,7 +22,7 @@ export const projects = [
   {
     id: 2,
     title: "Personal Portfolio Website",
-    image: "./public/images/projects/portfolio.png",
+    image: "./images/projects/portfolio.png",
     category: "Frontend Development",
     technologies: [
       "React",
@@ -41,7 +41,7 @@ export const projects = [
   {
     id: 3,
     title: "Business Intelligence & Marketing Insights System",
-    image: "./public/images/projects/data_analysis.png",
+    image: "./images/projects/data_analysis.png",
     category: "Data Analytics & Business Intelligence",
     technologies: [
       "Python",
