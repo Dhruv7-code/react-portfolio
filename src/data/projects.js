@@ -10,13 +10,13 @@ export const projects = [
       "HTML5",
       "CSS3",
       "JavaScript",
+      "Responsive Design",
       "GitHub Copilot",
       "ChatGPT",
       "Gemini (Image Generation)"
     ],
-    metrics: "Key performance metrics",
-    demoUrl: "",
-    githubUrl: ""
+    demoUrl: "https://sound-the-music-app.netlify.app",
+    githubUrl: "https://github.com/Dhruv7-code/sound-the-musicplayer"
   },
 
   {
@@ -34,9 +34,8 @@ export const projects = [
       "Gemini (Visual Assets)",
       "Responsive Design"
     ],
-    metrics: "Key performance metrics",
     demoUrl: "",
-    githubUrl: ""
+    githubUrl: "https://github.com/Dhruv7-code/react-portfolio"
   },
 
   {
@@ -54,26 +53,7 @@ export const projects = [
       "ChatGPT (Reasoning & Insight Generation)",
       "GitHub Copilot (Query Optimization)"
     ],
-    metrics: "Key performance metrics",
-    demoUrl: "",
-    githubUrl: ""
-  },
-  {
-    id: 5,
-    title: "Business Intelligence & Marketing Insights System",
-    image: "./public/images/projects/data_analysis.png",
-    category: "Data Analytics & Business Intelligence",
-    technologies: [
-      "Python",
-      "SQL",
-      "Power BI",
-      "Excel",
-      "Pandas",
-      "NumPy",
-      "ChatGPT (Reasoning & Insight Generation)",
-      "GitHub Copilot (Query Optimization)"
-    ],
-    metrics: "Key performance metrics",
+    status: "In Progress",
     demoUrl: "",
     githubUrl: ""
   }

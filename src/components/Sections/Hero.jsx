@@ -62,7 +62,7 @@ function Hero() {
                 {/* Image Container */}
                 <div className='relative rounded-2xl overflow-hidden m-px h-[calc(100%-2px)]'>
                   <img
-                    src="/public/images/dhruv_.png"
+                    src="/public/images/marcus.jpg"
                     alt="Dhruv"
                     className="w-full h-full object-cover" />
                 </div>

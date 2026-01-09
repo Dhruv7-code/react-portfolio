@@ -3,7 +3,7 @@ import { ExternalLink, Github, TrendingUp } from 'lucide-react'
 
 
 const ProjectCard = ({project}) => {
-  const { title, description, image, category, technologies, metrics, demoUrl, githubUrl } = project;
+  const { title, description, image, category, technologies, status, demoUrl, githubUrl } = project;
   return (
     <div className='group relative bg-white/5 border border-white/10 rounded-2xl overflow-hidden hover:border-primary/30 transition-all duration-300'>
       <div className='relative h-64 overflow-hidden'>
@@ -67,11 +67,11 @@ const ProjectCard = ({project}) => {
           ))}
         </div>
 
-        {metrics && (
+        {status && (
           <div className='flex items-center gap-2 pt-3 border-t border-white/10'>
             <TrendingUp className='w-4 h-4 text-green-400' />
             <p className='text-sm font-medium text-green-400'>
-              {metrics}
+              {status}
             </p>
           </div>
         )}
