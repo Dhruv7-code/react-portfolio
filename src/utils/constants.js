@@ -4,7 +4,7 @@ export const PERSONAL_INFO = {
     email: "dhruvprj1001@gmail.com",
     location: "Canada",
     tagline: "Building thoughtful software at the intersection of code, data, and design.",
-    resume: '',
+    resume: '/Resume/RESUME.pdf',
     bio: ["I'm a software developer with a strong foundation in frontend engineering, data analysis, and problem-solving. I build systems that are clean, efficient, and purpose-driven — blending technical depth with practical design. My goal is to create software that not only works, but works intelligently."]
 };
 
