@@ -32,7 +32,7 @@ const Achievements = () => {
     const achievementsStats = [
         { value: '2500+', label: 'Students Represented' },
         { value: '3', label: 'Times Scholarship Awarded' },
-        { value: '3.75 GPA', label: 'Honors Standing' },
+        { value: '3.65 GPA', label: 'Honors Standing' },
     ];
 
 
