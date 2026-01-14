@@ -22,3 +22,6 @@ This Project is built to showcase all my skills, achievements and capabilities a
 
 # **Any bugs or isses?**
 If you see any bugs or issues in the project please reach out to me via my email: dhruvprj1001@gmail.com
+
+# **Author:**
+Dhruv Prajapati
