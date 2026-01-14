@@ -1,16 +1,24 @@
-# React + Vite
+# **This is my portfolio website**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website link: https://dhruv-react-webportfolio.netlify.app
 
-Currently, two official plugins are available:
+# **Technologies used:**
+- React.js
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# **About the project:**
+I have created this website to showcase all the information about me and and my front-end skills. 
+For some part of the website like the gradients, I took inspration from the projects avilable on the internet.
 
-## React Compiler
+## How I built this project?
+After working on the last project, sound-the music player and learning more deeper in the web development, I noticed how messy and unclear code my previous project had. After noticing this issue I focused more on intelligent application designs, and efficient code structure.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+After the analysis, I implemented samrt and clean code and app design for this project. 
+I created components for each section of the website.
+For sections like Proejcts and achievements I implemented card-based design where I created a primary card and stored data in JavaScript file. React fatches all the information from the JavaScript file and creates cards for all individual items, if more card need to be added, only the data file needs to be updated and can see clean changes on the website.
+This clean structure makes it more easier to debug and update new changes and versions.
 
-## Expanding the ESLint configuration
+This Project is built to showcase all my skills, achievements and capabilities at one spot but it is also built to show and implement skills in smart designs and smart and clean code structures.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# **Any bugs or isses?**
+If you see any bugs or issues in the project please reach out to me via my email: dhruvprj1001@gmail.com
