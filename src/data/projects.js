@@ -40,6 +40,27 @@ export const projects = [
 
   {
     id: 3,
+    title: "ClassFlow: Student Performance Analysis & Visualization (Capstone Project)",
+    image: "/images/projects/classflow.png",
+    category: "Full Stack Web Application",
+    technologies: [
+      "Python",
+      "SQL",
+      "PostgreSQL",
+      "FastAPI",
+      "React",
+      "Exploratory Data Analysis",
+      "Chart.js",
+      "ChatGPT (Reasoning & Insight Generation)",
+      "GitHub Copilot (Query Optimization)"
+    ],
+    status: "In Progress",
+    demoUrl: "",
+    githubUrl: ""
+  },
+
+  {
+    id: 4,
     title: "Business Intelligence & Marketing Insights System",
     image: "/images/projects/data_analysis.png",
     category: "Data Analytics & Business Intelligence",
