@@ -77,6 +77,29 @@ export const projects = [
     status: "In Progress",
     demoUrl: "",
     githubUrl: ""
+  },
+
+  {
+    id: 5,
+    title: "HappyCRM: Internal dashboard for checking task execution status and task health",
+    image: "/images/projects/HappyCRM.png",
+    category: "Full Stack Web Application",
+    technologies: [
+      "C#",
+      "PostgreSQL",
+      ".NET 10",
+      "React",
+      "Tailwind CSS",
+      "NeonDB",
+      "Railway (Backend deployment)",
+      "Vercel (Frontend deployment)",
+      "NUnit (Unit Testing)",
+      "ChatGPT (Reasoning & Insight Generation)",
+      "GitHub Copilot (Query Optimization)"
+    ],
+    status: "In Progress",
+    demoUrl: "https://happy-crm-gamma.vercel.app/dashboard",
+    githubUrl: "https://github.com/Dhruv7-code/HappyCRM"
   }
   
 ];
