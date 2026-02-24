@@ -18,6 +18,7 @@ const Skills = () => {
             skills.find(s => s.name === "Tailwind CSS"),
             skills.find(s => s.name === "Backend Development"),
             skills.find(s => s.name === "API Integration"),
+            skills.find(s => s.name === "Database Management"),
         ].filter(Boolean),
         "Data Analysis" : [
             skills.find(s => s.name === "Python"),

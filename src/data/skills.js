@@ -63,13 +63,13 @@ export const skills = [
     id: 11,
     name: "Backend Development",
     icon: "Server",
-    level: "Foundational"
+    level: "Advanced"
   },
   {
     id: 12,
     name: "API Integration",
     icon: "Plug",
-    level: "Foundational"
+    level: "Intermediate"
   },
   {
     id: 13,
@@ -93,6 +93,13 @@ export const skills = [
     id: 16,
     name: "Analytical Skills",
     icon: "Search",
+    level: "Advanced"
+  },
+
+  {
+    id: 17,
+    name: "Database Management",
+    icon: "Database",
     level: "Advanced"
   }
 ];

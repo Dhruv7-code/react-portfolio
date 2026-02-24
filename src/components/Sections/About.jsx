@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 import { Download, Code2, Sparkles, Code, Sparkle, Puzzle } from 'lucide-react'
-import { SiHtml5, SiCss3, SiJavascript, SiReact, SiTailwindcss, SiMongodb, SiPython, SiMysql, SiScikitlearn, SiNumpy, SiPandas } from 'react-icons/si'
+import { SiHtml5, SiCss3, SiJavascript, SiReact, SiTailwindcss, SiMongodb, SiPython, SiMysql, SiScikitlearn, SiNumpy, SiPandas, SiCnet, SiDotnet, SiRailway, SiVercel, SiPostgresql} from 'react-icons/si'
 import { PERSONAL_INFO } from '../../utils/constants'
 import FadeIn from '../animations/FadeIn'
 import RadialGradientBackground from '../backgrounds/RadialGradientBackground.jsx';
@@ -19,6 +19,12 @@ const About = () => {
         { name: "Scikit-learn", icon: SiScikitlearn, color: "#F7931E" },
         { name: "NumPy", icon: SiNumpy, color: "#013243" },
         { name: "Pandas", icon: SiPandas, color: "#150458" },
+        { name: "C#", icon: SiCnet, color: "#239120" },
+        { name: ".NET", icon: SiDotnet, color: "#512BD4" },
+        { name: "Railway", icon: SiRailway, color: "#000000" },
+        { name: "Vercel", icon: SiVercel, color: "#000000" },
+        { name: "PostgreSQL", icon: SiPostgresql, color: "#336791" },
+       
     ]
 
     return <section id="about" className="relative py-20 bg-black overflow-hidden">
