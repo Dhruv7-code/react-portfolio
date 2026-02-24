@@ -82,7 +82,7 @@ export const projects = [
   {
     id: 5,
     title: "HappyCRM: Internal dashboard for checking task execution status and task health",
-    image: "/images/projects/HappyCRM.png",
+    image: "/images/projects/HapyCRM.png",
     category: "Full Stack Web Application",
     technologies: [
       "C#",
